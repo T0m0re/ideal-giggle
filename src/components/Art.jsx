@@ -70,7 +70,7 @@ const Art = () => {
             <div className="masked-container">
                 <h2 className="will-fade">Sip-Worthy Perfection</h2>
 
-                <div id="masked-content mt-32">
+                <div id="masked-content" className="mt-32">
                     <h3>Made with craft, poured with passion</h3>
                     <p>This isn't just a drink. It's a carefully crafted moment made just for you</p>
                 </div>
